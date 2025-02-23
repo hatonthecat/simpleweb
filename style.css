@@ -106,7 +106,7 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 iframe {
-  max-width:100%;
+  max-width:50%;
 }
 
 /* Menu Links */
@@ -140,7 +140,7 @@ ul.main-menu li a.active {
   display:block;
 }
 iframe {
-  max-width:25%;
+  max-width:100%;
 }
 
 
