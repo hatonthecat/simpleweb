@@ -106,7 +106,7 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 iframe {
-  max-width:50%;
+  max-width:100%;
 }
 
 /* Menu Links */
