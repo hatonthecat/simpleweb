@@ -142,5 +142,7 @@ ul.main-menu li a.active {
 iframe {
   max-width:100%;
 }
-
+iframe {
+  max-height:100%;
+}
 
