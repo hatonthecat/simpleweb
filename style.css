@@ -93,7 +93,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
+  background:url(background.jpeg) center center no-repeat fixed;
   background-size:cover;
 }
 body {
@@ -104,6 +104,9 @@ header, #content, footer {
   background: rgba(0,0,0,.8); 
   padding:25px;
   color:#FFFFFF; 
+}
+iframe {
+  max-width:100%;
 }
 
 /* Menu Links */
@@ -136,6 +139,12 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
+iframe {
+  max-width:100%;
+}
 
-
+#}
+#iframe {
+#  max-headroom:https://www.youtube.com/watch?v=9v8DcgNacGQ
+#} 
 
