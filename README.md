@@ -1,3 +1,8 @@
+7-26-2025
+--
+
+this repo is a test page. Reverted a commit but didn't locate the last working page.
+
 # Simple Website Using Github Pages
 Make a simple HTML website and publish it using Github Pages.  
 View example: hatonthecat.github.io/simpleweb/
